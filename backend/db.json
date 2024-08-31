@@ -1,0 +1,37 @@
+{
+    "livros": [
+      {
+        "id": 1,
+        "titulo": "Dom Casmurro",
+        "autor": "Machado de Assis",
+        "ano": 1899,
+        "genero": "Romance",
+        "isbn": "978-8520911773"
+      },
+      {
+        "id": 2,
+        "titulo": "O Pequeno Príncipe",
+        "autor": "Antoine de Saint-Exupéry",
+        "ano": 1943,
+        "genero": "Fábula",
+        "isbn": "978-8550703936"
+      },
+      {
+        "id": 3,
+        "titulo": "1984",
+        "autor": "George Orwell",
+        "ano": 1949,
+        "genero": "Distopia",
+        "isbn": "978-8542805231"
+      },
+      {
+        "id": 4,
+        "titulo": "A Moreninha",
+        "autor": "Joaquim Manuel de Macedo",
+        "ano": 1844,
+        "genero": "Romance",
+        "isbn": "978-8520911261"
+      }
+    ]
+  }
+  
